@@ -1,6 +1,7 @@
 import React from "react";
 
 function TableBody(props) {
+  
   return (
     <tbody className="text-center">
       {props.users.map((user) => {

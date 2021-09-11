@@ -20,8 +20,8 @@ As a user, I want to be able to view my entire employee directory at once so tha
 * Axios
 
 ## Review Links
-[Repository](https://github.com/Twdavis85/fitness-workout-tracker) &nbsp; | &nbsp; 
-[Live](https://young-garden-06779.herokuapp.com/?id=612834d56aeae40016b20e6c)
+[Repository](https://github.com/Twdavis85/react-employee-directory) &nbsp; | &nbsp; 
+[Live](https://twdavis85.github.io/react-employee-directory/)
 
 
 ## Questions
